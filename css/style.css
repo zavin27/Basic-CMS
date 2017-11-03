@@ -1,0 +1,26 @@
+.main-header {
+
+    text-align: center;
+    background-color: #005E8D;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: white;
+}
+
+.main-nav-bar {
+
+    background-color: #3296C9;
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+
+}
+
+.active {
+    background-color: #CE0000;
+    border-radius: 10px;
+
+}
+
